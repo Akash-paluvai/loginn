@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">loginn</string>
+    <string name="default_web_client_id">1094751519488-4853k6tp1h417cq30o46cfj109a9qvci.apps.googleusercontent.com</string>
+
+    <!-- Login Screens -->
+    <string name="teacher_login">Teacher Login</string>
+    <string name="admin_login">Admin Login</string>
+    <string name="phone_number_hint">Enter Phone Number</string>
+    <string name="otp_hint">Enter OTP</string>
+    <string name="send_otp">Send OTP</string>
+    <string name="verify_otp">Verify OTP</string>
+    <string name="resend_otp">Resend OTP</string>
+
+    <!-- Messages -->
+    <string name="auth_failed">Authentication Failed</string>
+    <string name="otp_sent">OTP sent successfully</string>
+    <string name="invalid_phone">Please enter a valid phone number</string>
+    <string name="invalid_otp">Please enter a valid OTP</string>
+    <string name="google_signin_failed">Google sign in failed</string>
+    <string name="use_institutional_email">Please use your institutional email</string>
+    <string name="use_admin_email">Please use your admin email</string>
+
+    <!-- Home Screen -->
+    <string name="welcome">Welcome</string>
+    <string name="need_help">Need Help?</string>
+    <string name="click_for_help">Click here for assistance</string>
+    <string name="logout">Logout</string>
+
+    <!-- Help Screen -->
+    <string name="help_support">Help &amp; Support</string>
+    <string name="enter_otp">enter otp</string>
+    <string name="enter_phone_number">enter phone number</string>
+</resources>

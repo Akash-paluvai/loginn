@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1094751519488",
+    "project_id": "loginn-f673c",
+    "storage_bucket": "loginn-f673c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094751519488:android:42922a6489d22f688829e5",
+        "android_client_info": {
+          "package_name": "com.example.loginn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1094751519488-4853k6tp1h417cq30o46cfj109a9qvci.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.loginn",
+            "certificate_hash": "fc7dbfe0bb1bb650f120c28b4a75c436487a37b0"
+          }
+        },
+        {
+          "client_id": "1094751519488-iof12r0shgocpfhnja9sv8fv6cqvt81v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxDVJC3bPgRPgZ_-EmK5xOYx2U38YFbwA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1094751519488-iof12r0shgocpfhnja9sv8fv6cqvt81v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
